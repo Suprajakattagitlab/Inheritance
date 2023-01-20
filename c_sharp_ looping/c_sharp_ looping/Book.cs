@@ -95,12 +95,12 @@ namespace c_sharp__looping
                         Console.WriteLine("Silver user");
                         break;
                     default:
-                        Console.WriteLine("Normal user");
+                        Console.WriteLine("Regular user");
                         break;
                 }
 
             }
-        public delegate void demodelegate(int message);
+       public delegate void demodelegate(int message);
 
         public void implementingDelegate()
         {
@@ -109,7 +109,7 @@ namespace c_sharp__looping
             log+= Linuxlogin;
 
            log(100);
-           //Console.WriteLine(res);
+           Console.WriteLine(log);
 
 
         }
