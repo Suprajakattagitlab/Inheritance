@@ -31,7 +31,7 @@ namespace c_sharp_looping
             int ree=b.TotalBill(c,b.bill);
              Console.WriteLine($"The badge with book namen {b.Name} is {c} with bill {ree}");
              b.implementingDelegate();
-            //Adding new lines from remote repo
+            //Adding new lines from remote repo 2nd time
             
             Demo_String.string_demo();
             
