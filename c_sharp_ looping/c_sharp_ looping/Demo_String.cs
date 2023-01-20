@@ -24,12 +24,9 @@ namespace c_sharp__looping
             s1.Append(sub);
 
            Console.WriteLine("Additing new line");
-            
-           // s1.AppendLine("Katta");
-           // Console.WriteLine(s1);
-            //Console.WriteLine($"{s1}\t{s}");
-          //  Console.WriteLine(@"\\klingelnberggmbh-my.sharepoint.com@SSL\DavWWWRoot\personal\prashant_deshmukh_klingelnberg_com\Documents\Training Schedule for Supraja.xlsx");
 
+            
+           
 
         }
         
