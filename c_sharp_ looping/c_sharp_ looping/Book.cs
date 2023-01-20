@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace c_sharp__looping
 {
+   
     public class Nameobject
     {
 
@@ -15,6 +16,7 @@ namespace c_sharp__looping
 
     class Book
     {
+        public int bill = 0;
         public Book(string name)
         {
             Name = name;
@@ -27,19 +29,41 @@ namespace c_sharp__looping
              set;
         }
             
-        int bill = 0;
+        
         public  void AddBookPrice(int p)
         {
             price.Add(p);
             
         }
+
         public int TotalBill()
         {
+            //int bill = 0;
             foreach (int p in price) 
             {
-                bill = p + bill;
+                this.bill = p + this.bill;
             }
-            return bill;  
+            return this.bill;  
+        }
+        public int TotalBill(char Badge,int bill)
+        {
+            
+           
+            switch (Badge)
+            {
+                case 'A':
+                    //Console.WriteLine($"you are getting 50% discount{bill}");
+                    return bill-((bill*50)/100);
+
+                 case 'B':
+                    return bill-((bill * 20)/ 100);
+
+                  case 'C':
+                    return bill-((bill * 10) / 100);
+                default:
+                    return bill;
+            }
+            
         }
         public char Badge(int bill)
         {

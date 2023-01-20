@@ -9,7 +9,7 @@ namespace c_sharp_looping
     {
         public static void Main(String[] args)
         {
-            /* Book b = new Book("Think like a monk");
+            Book b = new Book("Think like a monk");
              //b.Name = "Kite Runner";
              Boolean f = true;
              while (f != false)
@@ -28,9 +28,10 @@ namespace c_sharp_looping
              int re = b.TotalBill();
              Console.WriteLine(re);
              char c = b.Badge(re);
-             Console.WriteLine($"The badge with book namen {b.Name} is {c}");
+            int ree=b.TotalBill(c,b.bill);
+             Console.WriteLine($"The badge with book namen {b.Name} is {c} and with bill {ree}");
              b.implementingDelegate();
-            */
+            
             Demo_String.string_demo();
             
 
