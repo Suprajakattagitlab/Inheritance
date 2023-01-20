@@ -22,7 +22,8 @@ namespace c_sharp__looping
            // Console.WriteLine($"{ s.ToLower()} { s.Length} {sub}");
             StringBuilder s1 = new StringBuilder();
             s1.Append(sub);
-           // Console.WriteLine(s1.Length);
+
+           Console.WriteLine("Additing new line");
             
            // s1.AppendLine("Katta");
            // Console.WriteLine(s1);
