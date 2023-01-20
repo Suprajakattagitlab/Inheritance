@@ -1,0 +1,5 @@
+C:\Users\katt_sup\c_sharp_Fundamentals\cs_fund\obj\Debug\net6.0\cs_fund.csproj.AssemblyReference.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\cs_fund\obj\Debug\net6.0\cs_fund.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katt_sup\c_sharp_Fundamentals\cs_fund\obj\Debug\net6.0\cs_fund.AssemblyInfoInputs.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\cs_fund\obj\Debug\net6.0\cs_fund.AssemblyInfo.cs
+C:\Users\katt_sup\c_sharp_Fundamentals\cs_fund\obj\Debug\net6.0\cs_fund.csproj.CoreCompileInputs.cache
