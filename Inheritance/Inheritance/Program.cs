@@ -1,5 +1,6 @@
 ﻿
 using Inheritance;
+using InheritanceDemo.HR;
 using InheritanceDemo.SoftwareEmpl;
 using System;
 namespace InheritanceDemo
@@ -18,7 +19,12 @@ namespace InheritanceDemo
             
             ResignedEmployee r1 = new ResignedEmployee(301,"John","John4658@gmail.com",56788);
             r1.EmpDetails();
-            Console.WriteLine(r1.full_and_final_Amout(r1.ReceiveWage(4),13));
+            Console.WriteLine(r1.full_and_final_Amout(r1.ReceiveWage(4), 13));
+            Manager m = new Manager(201,"Catherine","cathrine345@gmail.com",4678);
+            m.ReceiveWage(25);
+            Console.WriteLine($"Emplyee wage with name {m.name} is {m.ReceiveWage(25)}");
+            ;            
+            
 
         }
     }

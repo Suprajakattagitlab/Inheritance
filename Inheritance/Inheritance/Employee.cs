@@ -27,7 +27,7 @@ namespace Inheritance
         {
             Console.WriteLine($"The {name} with id {EmpId} and with email and Aadhar no is {emailId} ,{ AadharId}");
         }
-        public double ReceiveWage(int No_of_Working_days)
+        public virtual double ReceiveWage(int No_of_Working_days)
         {
             return 1000*No_of_Working_days*tax_rate;
         }
