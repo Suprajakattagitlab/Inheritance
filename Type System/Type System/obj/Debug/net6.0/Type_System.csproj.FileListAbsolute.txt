@@ -1,0 +1,15 @@
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\Type_System.csproj.AssemblyReference.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\Type_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\Type_System.AssemblyInfoInputs.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\Type_System.AssemblyInfo.cs
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\Type_System.csproj.CoreCompileInputs.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\bin\Debug\net6.0\Type_System.exe
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\bin\Debug\net6.0\Type_System.deps.json
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\bin\Debug\net6.0\Type_System.runtimeconfig.json
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\bin\Debug\net6.0\Type_System.dll
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\bin\Debug\net6.0\Type_System.pdb
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\Type_System.dll
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\refint\Type_System.dll
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\Type_System.pdb
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\Type_System.genruntimeconfig.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\Type System\Type System\obj\Debug\net6.0\ref\Type_System.dll
