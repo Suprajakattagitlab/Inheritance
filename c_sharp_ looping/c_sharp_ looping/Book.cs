@@ -110,7 +110,8 @@ namespace c_sharp__looping
 
            log(100);
            Console.WriteLine(log);
-          //additting new line in remote
+          //additting new line in local for the 1st time
+
 
         }
         public void Windowlogin(int s)
