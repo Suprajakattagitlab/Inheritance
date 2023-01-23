@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Reflection.Metadata;
 using System.Runtime.CompilerServices;
+using System.Transactions;
 
 namespace Type_System
 {
@@ -17,36 +18,46 @@ namespace Type_System
             UserType userType = UserType.Platinum;
             UserType u2 = UserType.Gold;
             Console.WriteLine("Enter user type: Platinum, Gold, Silver, Regular");
+            
             var u = Enum.Parse<UserType>(Console.ReadLine());
-            
-            
+            Console.WriteLine("Enter the user name");
+
+
+
+
+
             User us;
+            us.name = Console.ReadLine();
+            Console.WriteLine("Enter the price of the book");
+
             var p=Console.ReadLine();
          
             us.price = int.Parse(p);
-            CalculateBill(us.price, u);
+            int bill =CalculateBill(us.price, u);
+            Console.WriteLine($"With username {us.name} the bill is {bill}");   
+
 
 
     }
-        private  static void CalculateBill (int price, UserType u)
+        private  static int CalculateBill (int price, UserType u)
         {
             switch(u)
             { 
                 case UserType.Platinum:
-                     Console.WriteLine(price - (price * 20 / 100));
-                    break;
+                     return price - (price * 20 / 100);
+                   
                 case UserType.Gold:
-                     Console.WriteLine(price - (price * 10 / 100));
-                    break;
+                     return price - (price * 10 / 100);
+                    
                 case UserType.Silver:
-                     Console.WriteLine(price - (price * 5 / 100));
-                    break;
+                     return price - (price * 5 / 100);
+                   
                 case UserType.Regular:
-                     Console.WriteLine(price);
-                    break;
+                     return price;
+                   
                 default:
-                    Console.WriteLine("Incorrect User Type");
-                    break;
+                    return 0;
+                
 
             }
             
