@@ -1,0 +1,15 @@
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\bin\Debug\net6.0\Interface_Demo.exe
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\bin\Debug\net6.0\Interface_Demo.deps.json
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\bin\Debug\net6.0\Interface_Demo.runtimeconfig.json
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\bin\Debug\net6.0\Interface_Demo.dll
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\bin\Debug\net6.0\Interface_Demo.pdb
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\Interface_Demo.csproj.AssemblyReference.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\Interface_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\Interface_Demo.AssemblyInfoInputs.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\Interface_Demo.AssemblyInfo.cs
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\Interface_Demo.csproj.CoreCompileInputs.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\Interface_Demo.dll
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\refint\Interface_Demo.dll
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\Interface_Demo.pdb
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\Interface_Demo.genruntimeconfig.cache
+C:\Users\katt_sup\c_sharp_Fundamentals\Interface\Interface_Demo\Interface_Demo\obj\Debug\net6.0\ref\Interface_Demo.dll
